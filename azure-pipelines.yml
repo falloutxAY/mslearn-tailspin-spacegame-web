@@ -33,7 +33,6 @@
 #     platform: '$(buildPlatform)'
 #     configuration: '$(buildConfiguration)'
 
-
 trigger:
   - '*'
   
